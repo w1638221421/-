@@ -1,39 +1,39 @@
+移动到页面上的下一个交互元素
 #EXTM3U x-tvg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz"
-#EXTINF:-1 tvg-name="CCTV-1" tvg-logo="https://epg.112114.xyz/logo/CCTV-1.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-1
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8
-#EXTINF:-1 tvg-name="CCTV-2" tvg-logo="https://epg.112114.xyz/logo/CCTV-2.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-2
+#EXTINF:-1 tvg-name="CCTV-1" tvg-logo="https://epg.112114.xyz/logo/CCTV-1.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-1
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
-#EXTINF:-1 tvg-name="CCTV-3" tvg-logo="https://epg.112114.xyz/logo/CCTV-3.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-3
+#EXTINF:-1 tvg-name="CCTV-2" tvg-logo="https://epg.112114.xyz/logo/CCTV-2.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-2
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
-#EXTINF:-1 tvg-name="CCTV-4" tvg-logo="https://epg.112114.xyz/logo/CCTV-4.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-4
+#EXTINF:-1 tvg-name="CCTV-3" tvg-logo="https://epg.112114.xyz/logo/CCTV-3.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-3
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8
-#EXTINF:-1 tvg-name="CCTV-5" tvg-logo="https://epg.112114.xyz/logo/CCTV-5.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-5
+#EXTINF:-1 tvg-name="CCTV-4" tvg-logo="https://epg.112114.xyz/logo/CCTV-4.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-4
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
-#EXTINF:-1 tvg-name="CCTV-6" tvg-logo="https://epg.112114.xyz/logo/CCTV-6.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-6
+#EXTINF:-1 tvg-name="CCTV-5" tvg-logo="https://epg.112114.xyz/logo/CCTV-5.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-5
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226011/1.m3u8
-#EXTINF:-1 tvg-name="CCTV-7" tvg-logo="https://epg.112114.xyz/logo/CCTV-7.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-7
+#EXTINF:-1 tvg-name="CCTV-6" tvg-logo="https://epg.112114.xyz/logo/CCTV-6.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-6
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226192/1.m3u8
-#EXTINF:-1 tvg-name="CCTV-8" tvg-logo="https://epg.112114.xyz/logo/CCTV-8.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-8
+#EXTINF:-1 tvg-name="CCTV-7" tvg-logo="https://epg.112114.xyz/logo/CCTV-7.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-7
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8
-#EXTINF:-1 tvg-name="CCTV-9" tvg-logo="https://epg.112114.xyz/logo/CCTV-9.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-9
+#EXTINF:-1 tvg-name="CCTV-8" tvg-logo="https://epg.112114.xyz/logo/CCTV-8.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-8
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8
-#EXTINF:-1 tvg-name="CCTV-10" tvg-logo="https://epg.112114.xyz/logo/CCTV-10.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-10
+#EXTINF:-1 tvg-name="CCTV-9" tvg-logo="https://epg.112114.xyz/logo/CCTV-9.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-9
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226189/1.m3u8
-#EXTINF:-1 tvg-name="CCTV-11" tvg-logo="https://epg.112114.xyz/logo/CCTV-11.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-11
+#EXTINF:-1 tvg-name="CCTV-10" tvg-logo="https://epg.112114.xyz/logo/CCTV-10.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-10
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226240/1.m3u8
-#EXTINF:-1 tvg-name="CCTV-12" tvg-logo="https://epg.112114.xyz/logo/CCTV-12.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-12
+#EXTINF:-1 tvg-name="CCTV-11" tvg-logo="https://epg.112114.xyz/logo/CCTV-11.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-11
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226190/1.m3u8
-#EXTINF:-1 tvg-name="CCTV-13" tvg-logo="https://epg.112114.xyz/logo/CCTV-13.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-13
+#EXTINF:-1 tvg-name="CCTV-12" tvg-logo="https://epg.112114.xyz/logo/CCTV-12.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-12
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
-#EXTINF:-1 tvg-name="CCTV-14" tvg-logo="https://epg.112114.xyz/logo/CCTV-14.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-14
+#EXTINF:-1 tvg-name="CCTV-13" tvg-logo="https://epg.112114.xyz/logo/CCTV-13.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-13
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/1.m3u8
-#EXTINF:-1 tvg-name="CCTV-15" tvg-logo="https://epg.112114.xyz/logo/CCTV-15.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-15
+#EXTINF:-1 tvg-name="CCTV-14" tvg-logo="https://epg.112114.xyz/logo/CCTV-14.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-14
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8
-#EXTINF:-1 tvg-name="CCTV-16" tvg-logo="https://epg.112114.xyz/logo/CCTV-16.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-16
+#EXTINF:-1 tvg-name="CCTV-15" tvg-logo="https://epg.112114.xyz/logo/CCTV-15.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-15
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
-#EXTINF:-1 tvg-name="CCTV-17" tvg-logo="https://epg.112114.xyz/logo/CCTV-17.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-17
+#EXTINF:-1 tvg-name="CCTV-16" tvg-logo="https://epg.112114.xyz/logo/CCTV-16.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-16
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226198/1.m3u8
-#EXTINF:-1 tvg-name="CCTV-5+" tvg-logo="https://epg.112114.xyz/logo/CCTV-5+.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-5+
+#EXTINF:-1 tvg-name="CCTV-17" tvg-logo="https://epg.112114.xyz/logo/CCTV-17.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-17
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8
 #EXTINF:-1 tvg-name="CCTV-+ (600p)" tvg-logo="https://epg.112114.xyz/logo/CCTV-+ (600p).png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-+ (600p)
 https://cd-live-stream.news.CCTV-plus.com/live/smil:CHANNEL1.smil/playlist.m3u8
