@@ -187,10 +187,6 @@ http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/32212281
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001241/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-5+
 http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228277/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV-4K
-http://[2409:8087:2001:20:2800:0:df6e:eb25]/ott.mobaibox.com/PLTV/4/224/3221228472/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV-8K
-http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-1
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-2
@@ -363,40 +359,6 @@ http://39.134.66.66/PLTV/88888888/224/3221225665/index.m3u8
 http://39.134.66.66/PLTV/88888888/224/3221225570/index.m3u8
 #EXTINF:-1 group-title="卫视",新疆卫视
 http://39.134.66.66/PLTV/88888888/224/3221225582/index.m3u8
-#EXTINF:-1 group-title="卫视",内蒙古卫视
-https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=35f2dd39972cede5222c6bd2c0efe24b&txTime=77395680
-#EXTINF:-1 group-title="卫视",黑龙江卫视
-http://[2409:8087:5e00:24::20]:6610/000000001000/1/1000000005000265029/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265029&livemode=1&stbId=3"
-#EXTINF:-1 group-title="卫视",内蒙新闻
-https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=b4373417a82ed64e52b0982a66da8df2&txTime=771E8800
-#EXTINF:-1 group-title="卫视",内蒙经济
-https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=112b2c4c872de52b0f37aff6ead63ef0&txTime=771E8800
-#EXTINF:-1 group-title="卫视",内蒙少儿
-https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=a2c948908728a0733cecbe1fadea23dc&txTime=771E8800
-#EXTINF:-1 group-title="卫视",内蒙文体
-https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=c7b5c515d2bb6df442492d54955329a3&txTime=771E8800
-#EXTINF:-1 group-title="卫视",内蒙农牧
-https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=4d368a175afa19737a9f5be10af24fe2&txTime=771E8800
-#EXTINF:-1 group-title="卫视",蒙语卫视
-https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=4971666599ef9411629213c9a300bf66&txTime=771EF880
-#EXTINF:-1 group-title="卫视",蒙语文化
-https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=d9d0fd7a252ef56b515c46a2e21830f4&txTime=771E8800
-#EXTINF:-1 group-title="卫视",呼市新闻综合
-https://livestream-bt.nmtv.cn/nmtv/2331general.m3u8?txSecret=4d7342ca5cd74480526ab6d292247aff&txTime=771E8800
-#EXTINF:-1 group-title="卫视",包头新闻综合
-https://livestream-bt.nmtv.cn/nmtv/2358general.m3u8?txSecret=98390a77c143a68f0fd64bfe6e181dcb&txTime=771E8800
-#EXTINF:-1 group-title="卫视",鄂尔多斯新闻
-https://livestream-bt.nmtv.cn/nmtv/2349general.m3u8?txSecret=e44477052aba305cadeea45aaf1c674a&txTime=771E8800
-#EXTINF:-1 group-title="卫视",巴彦淖尔新闻
-https://livestream-bt.nmtv.cn/nmtv/2348general.m3u8?txSecret=6a4ddce077e41b976fe33619fbef2b30&txTime=771E8800
-#EXTINF:-1 group-title="卫视",赤峰新闻综合
-https://livestream-bt.nmtv.cn/nmtv/2351general.m3u8?txSecret=8857087aeec2cec44d178a18550fdb8a&txTime=771E8800
-#EXTINF:-1 group-title="卫视",乌兰察布新闻
-https://livestream-bt.nmtv.cn/nmtv/2354general.m3u8?txSecret=cf5f71d0000862b18f5813607b3dfd5b&txTime=771E8800
-#EXTINF:-1 group-title="卫视",延边卫视
-http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
-#EXTINF:-1 group-title="卫视",三沙卫视
-https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
 #EXTINF:-1 group-title="浙江频道",浙江新闻
 https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 #EXTINF:-1 group-title="浙江频道",浙江国际
@@ -413,61 +375,4 @@ https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 #EXTINF:-1 group-title="浙江频道",浙江钱江
 https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-#EXTINF:-1 group-title="NewTV",爱情喜剧
-http://39.134.66.66/PLTV/88888888/224/3221225533/index.m3u8
-#EXTINF:-1 group-title="NewTV",超级电视剧
-http://39.134.66.66/PLTV/88888888/224/3221225637/index.m3u8
-#EXTINF:-1 group-title="NewTV",超级电影
-http://39.134.66.66/PLTV/88888888/224/3221225644/index.m3u8
-#EXTINF:-1 group-title="NewTV",超级体育
-http://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8
-#EXTINF:-1 group-title="NewTV",超级综艺
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226009/1.m3u8
-#EXTINF:-1 group-title="NewTV",超级综艺
-http://39.134.66.66/PLTV/88888888/224/3221225642/index.m3u8
-#EXTINF:-1 group-title="NewTV",潮妈辣婆
-http://39.134.66.66/PLTV/88888888/224/3221225542/index.m3u8
-#EXTINF:-1 group-title="NewTV",东北热剧
-http://39.134.66.66/PLTV/88888888/224/3221225679/index.m3u8
-#EXTINF:-1 group-title="NewTV",动作电影
-http://39.134.66.66/PLTV/88888888/224/3221225555/index.m3u8
-#EXTINF:-1 group-title="NewTV",古装剧场
-http://39.134.66.66/PLTV/88888888/224/3221225524/index.m3u8
-#EXTINF:-1 group-title="NewTV",家庭剧场
-http://39.134.66.66/PLTV/88888888/224/3221225538/index.m3u8
-#EXTINF:-1 group-title="NewTV",家庭剧场
-http://39.134.66.66/PLTV/88888888/224/3221225682/index.m3u8
-#EXTINF:-1 group-title="NewTV",金牌综艺
-http://39.134.66.66/PLTV/88888888/224/3221225525/index.m3u8
-#EXTINF:-1 group-title="NewTV",惊悚悬疑
-http://39.134.66.66/PLTV/88888888/224/3221225553/index.m3u8
-#EXTINF:-1 group-title="NewTV",精品大剧
-http://39.134.66.66/PLTV/88888888/224/3221225536/index.m3u8
-#EXTINF:-1 group-title="NewTV",精品纪录
-http://39.134.66.66/PLTV/88888888/224/3221225545/index.m3u8
-#EXTINF:-1 group-title="NewTV",精品体育
-http://39.134.66.66/PLTV/88888888/224/3221225526/index.m3u8
-#EXTINF:-1 group-title="NewTV",军旅剧场
-http://39.134.66.66/PLTV/88888888/224/3221225560/index.m3u8
-#EXTINF:-1 group-title="NewTV",军事评论
-http://39.134.66.66/PLTV/88888888/224/3221225535/index.m3u8
-#EXTINF:-1 group-title="NewTV",明星大片
-http://39.134.66.66/PLTV/88888888/224/3221225550/index.m3u8
-#EXTINF:-1 group-title="NewTV",农业致富
-http://39.134.66.66/PLTV/88888888/224/3221225552/index.m3u8
-#EXTINF:-1 group-title="NewTV",武搏世界
-http://39.134.66.66/PLTV/88888888/224/3221225547/index.m3u8
-#EXTINF:-1 group-title="NewTV",炫舞未来
 http://39.134.66.66/PLTV/88888888/224/3221225646/index.m3u8
-#EXTINF:-1 group-title="NewTV",怡伴健康
-http://39.134.66.66/PLTV/88888888/224/3221225571/index.m3u8
-#EXTINF:-1 group-title="NewTV",中国功夫
-http://39.134.66.66/PLTV/88888888/224/3221225604/index.m3u8
-#EXTINF:-1 group-title="其他",欢笑剧场4K
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226582/1.m3u8
-#EXTINF:-1 group-title="其他",憨豆先生
-http://mmitv.top/pltv/yy.php?id=1354930189
-#EXTINF:-1 group-title="其他",单挑荒野第一季
-http://mmitv.top/pltv/yy.php?id=1354933535
-#EXTINF:-1 group-title="其他",今晚80后脱口秀
-http://mmitv.top/pltv/yy.php?id=1382745098
