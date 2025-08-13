@@ -265,6 +265,8 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225798/index.m3u8
 http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 #EXTINF:-1 group-title="卫视",辽宁卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226201/1.m3u8
+#EXTINF:-1 group-title="卫视",宁强1
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226390/index.m3u8
 #EXTINF:-1 group-title="卫视",重庆卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226202/1.m3u8
 #EXTINF:-1 group-title="卫视",黑龙江卫视
