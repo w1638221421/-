@@ -140,5 +140,5 @@ CCTV-17,http://cyz32.livehbindex.hbcatv.cn/live/500000208b8d41c4b436ef32428c229d
 第一财经,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226966/1.m3u8
 金鹰纪实,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226351/1.m3u8
 茶友频道,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226808/1.m3u8
-快乐77垂钓,http://dbiptv.99sn.chinamobile.com/PLTV/88888888/224/3221226805/1.m3u8
+快乐垂钓,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226805/1.m3u8
 
